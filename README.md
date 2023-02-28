@@ -8,7 +8,13 @@ To install this app you need the following packages installed on your system
 
   * Python
   * Pip 
- 
+  
+### Your Tasks
+
+  * Install the pre requsite packages 
+  * Fork and Clone the Application Code to the System
+  * Build and Deploy the Application 
+  
 
 ### Application Credits 
 
